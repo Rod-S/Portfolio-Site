@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": "0",
-      "project_name": "Random-Quote_Generator",
+      "project_name": "Random Quote Generator",
       "description": "Program that displays a randomly selected quote each time the user clicks a button.",
       "technologies": "HTML, CSS, JavaScript",
       "live_link": "livelink(dot)url",
@@ -14,7 +14,7 @@
     },
     {
       "id": "1",
-      "project_name": "Pagination-and-Content-Filter",
+      "project_name": "Pagination and Content Filter",
       "description": "Creating pagination and a content filter for an overly long HTML list of students using progressively enhanced, unobtrusive JavaScript",
       "technologies": "HTML, CSS, JavaScript, jQuery",
       "live_link": "livelink(dot)url",
@@ -26,7 +26,7 @@
     },
     {
       "id": "2",
-      "project_name": "Building-an-Interactive-Form",
+      "project_name": "Interactive Form",
       "description": "Creating an interactive registration form using HTML, CSS and JavaScript with responsive user-friendly error messages and form validity.",
       "technologies": "HTML, CSS, JavaScript, jQuery",
       "live_link": "livelink(dot)url",
@@ -38,7 +38,7 @@
     },
     {
       "id": "3",
-      "project_name": "Tic-Tac-Toe",
+      "project_name": "Tic-Tac-Toe Game",
       "description": "Building a functional, two-person (or 1-player vs. program) \"Tic-Tac-Toe\" game using provided mockups, HTML, CSS and image files that requires players to add their names, take turns playing, and have the program announce the results of the game when it ends.",
       "technologies": "HTML, CSS, JavaScript, jQuery",
       "live_link": "livelink(dot)url",
@@ -50,7 +50,7 @@
     },
     {
       "id": "4",
-      "project_name": "Use-a-Public-API-to-Create-an-Employee-Directory",
+      "project_name": "Using a Public API to Create an Employee Directory",
       "description": "Using the Random Generator API to retrieve data for 12 random employees, and using that data to build a prototype for an employee directory.",
       "technologies": "HTML, CSS, JavaScript, jQuery, API, AJAX, JSON",
       "live_link": "livelink(dot)url",
@@ -62,7 +62,7 @@
     },
     {
       "id": "5",
-      "project_name": "Content-Scraper",
+      "project_name": "Content Web Scraper",
       "description": "Command-line application using Node.js to scrape a web page then extract and store the data within a .csv file",
       "technologies": "HTML, CSS, JavaScript, jQuery, Node.js, CSV",
       "live_link": "livelink(dot)url",

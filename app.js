@@ -13,7 +13,7 @@ app.set('view engine', 'pug');
 app.get('/', (req, res) => {
   res.locals = data;
   res.render('index', res.locals);
-  console.log(res.locals);
+
 });
 
 app.get('/about', (req, res) => {
@@ -22,6 +22,7 @@ app.get('/about', (req, res) => {
 
 app.get('/project/:id', (req, res) => {
   res.locals = data.projects[0];
+  console.log(res.locals);
   res.render('project');
 });
 

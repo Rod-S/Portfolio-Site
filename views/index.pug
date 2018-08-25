@@ -9,7 +9,7 @@ block content
 
       //- Add a description for your portfolio, what this project is, it's purpose, what it's suppossed to accomplish, etc. 
       p.lead.text-light
-        | Take a look at the various projects I've created to demonstrate the skills and languages. More to be added with time!
+        | Take a look at the projects I've created which demonstrate my various skills and languages. More to be added with time!
   article.grid-container.portfolio-index
     
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
@@ -21,6 +21,6 @@ block content
       //- Here's what the Pug for each project example should look like. 
       each project in projects
         .cell
-          a(href='#')
-            img.thumbnail(src='https://placehold.it/550x550')
+          a(href=`/project/${id}`)
+            img.thumbnail(src=`static${project.image_urls[0]}`)
             h5 #{project.project_name}

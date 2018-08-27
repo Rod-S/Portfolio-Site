@@ -21,7 +21,8 @@ app.get('/about', (req, res) => {
 });
 
 app.get('/project/:id', (req, res) => {
-  res.locals = data.projects[0];
+  const {id} = req.params
+  res.locals = data.projects[id];
   console.log(res.locals);
   res.render('project');
 });

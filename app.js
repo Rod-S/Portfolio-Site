@@ -22,6 +22,10 @@ app.get('/about', (req, res) => {
 
 app.get('/project/:id', (req, res) => {
   const {id} = req.params
+  console.log(id);
+  if (id === 5) {
+    const liveDemo = true;
+  };
   res.locals = data.projects[id];
   console.log(res.locals);
   res.render('project');

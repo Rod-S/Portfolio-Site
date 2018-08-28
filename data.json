@@ -4,8 +4,8 @@
       "id": "0",
       "project_name": "Random Quote Generator",
       "description": "Program that displays a randomly selected quote each time the user clicks a button.",
-      "technologies": "HTML, CSS, JavaScript",
-      "live_link": "livelink(dot)url",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "live_link": "https://codepen.io/rod-s/full/LJNgyZ/",
       "github_link": "https://github.com/Rod-S/Unit-1---Random-Quote-Generator",
       "image_urls": [
         "/images/p1/p1LP.jpg",
@@ -16,8 +16,8 @@
       "id": "1",
       "project_name": "Pagination and Content Filter",
       "description": "Creating pagination and a content filter for an overly long HTML list of students using progressively enhanced, unobtrusive JavaScript",
-      "technologies": "HTML, CSS, JavaScript, jQuery",
-      "live_link": "livelink(dot)url",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "live_link": "https://codepen.io/rod-s/full/dqMgJv/",
       "github_link": "https://github.com/Rod-S/Unit-2---Pagination-and-Content-Filter",
       "image_urls": [
         "/images/p2/p2LP.jpg",
@@ -28,8 +28,8 @@
       "id": "2",
       "project_name": "Interactive Form",
       "description": "Creating an interactive registration form using HTML, CSS and JavaScript with responsive user-friendly error messages and form validity.",
-      "technologies": "HTML, CSS, JavaScript, jQuery",
-      "live_link": "livelink(dot)url",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "live_link": "https://codepen.io/rod-s/full/RYaEQW/",
       "github_link": "https://github.com/Rod-S/Unit-3---Building-an-Interactive-Form",
       "image_urls": [
         "/images/p3/p3LP.jpg",
@@ -39,9 +39,9 @@
     {
       "id": "3",
       "project_name": "Tic-Tac-Toe Game",
-      "description": "Building a functional, two-person (or 1-player vs. program) \"Tic-Tac-Toe\" game using provided mockups, HTML, CSS and image files that requires players to add their names, take turns playing, and have the program announce the results of the game when it ends.",
-      "technologies": "HTML, CSS, JavaScript, jQuery",
-      "live_link": "livelink(dot)url",
+      "description": "(Note: Live Demo may not display svg images properly.) A functional, two-person (or 1-player vs. program) \"Tic-Tac-Toe\" game using HTML, CSS and image files that requires players to add their names, take turns playing, and have the program announce the results of the game when it ends.",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "live_link": "https://codepen.io/rod-s/full/VGagwa/",
       "github_link": "https://github.com/Rod-S/Unit-4---Tic-Tac-Toe",
       "image_urls": [
         "/images/p4/p4LP.jpg",
@@ -52,8 +52,8 @@
       "id": "4",
       "project_name": "Using a Public API to Create an Employee Directory",
       "description": "Using the Random Generator API to retrieve data for 12 random employees, and using that data to build a prototype for an employee directory.",
-      "technologies": "HTML, CSS, JavaScript, jQuery, API, AJAX, JSON",
-      "live_link": "livelink(dot)url",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "API", "AJAX", "JSON"],
+      "live_link": "https://codepen.io/rod-s/full/YOqmqb/",
       "github_link": "https://github.com/Rod-S/Unit-5---Use-a-Public-API-to-Create-an-Employee-Directory",
       "image_urls": [
         "/images/p5/p5LP.jpg",
@@ -63,8 +63,8 @@
     {
       "id": "5",
       "project_name": "Content Web Scraper",
-      "description": "Command-line application using Node.js to scrape a web page then extract and store the data within a .csv file",
-      "technologies": "HTML, CSS, JavaScript, jQuery, Node.js, CSV",
+      "description": "Command-line application using Node.js to scrape a web page then store the data within a .csv file",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "CSV"],
       "live_link": "livelink(dot)url",
       "github_link": "https://github.com/Rod-S/Unit-1---Random-Quote-Generator",
       "image_urls": [

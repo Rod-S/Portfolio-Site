@@ -9,7 +9,9 @@
       "github_link": "https://github.com/Rod-S/Unit-1---Random-Quote-Generator",
       "image_urls": [
         "/images/p1/p1LP.jpg",
-        "image_path-2"
+        "/images/p1/p1s1.jpg",
+        "/images/p1/p1s2.jpg",
+        "/images/p1/p1s3.jpg"
       ]
     },
     {
@@ -21,31 +23,37 @@
       "github_link": "https://github.com/Rod-S/Unit-2---Pagination-and-Content-Filter",
       "image_urls": [
         "/images/p2/p2LP.jpg",
-        "image_path-2"
+        "/images/p2/p2s1.jpg",
+        "/images/p2/p2s2.jpg",
+        "/images/p2/p2s3.jpg"
       ]
     },
     {
       "id": "2",
-      "project_name": "Interactive Form",
+      "project_name": "Interactive Form with Validation",
       "description": "Creating an interactive registration form using HTML, CSS and JavaScript with responsive user-friendly error messages and form validity.",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
       "live_link": "https://codepen.io/rod-s/full/RYaEQW/",
       "github_link": "https://github.com/Rod-S/Unit-3---Building-an-Interactive-Form",
       "image_urls": [
         "/images/p3/p3LP.jpg",
-        "image_path-2"
+        "/images/p3/p3s1.jpg",
+        "/images/p3/p3s2.jpg",
+        "/images/p3/p3s3.jpg"
       ]
     },
     {
       "id": "3",
-      "project_name": "Tic-Tac-Toe Game",
+      "project_name": "Tic-Tac-Toe Game (1-player/2-players)",
       "description": "(Note: Live Demo may not display svg images properly.) A functional, two-person (or 1-player vs. program) \"Tic-Tac-Toe\" game using HTML, CSS and image files that requires players to add their names, take turns playing, and have the program announce the results of the game when it ends.",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
       "live_link": "https://codepen.io/rod-s/full/VGagwa/",
       "github_link": "https://github.com/Rod-S/Unit-4---Tic-Tac-Toe",
       "image_urls": [
         "/images/p4/p4LP.jpg",
-        "image_path-2"
+        "/images/p4/p4s1.jpg",
+        "/images/p4/p4s2.jpg",
+        "/images/p4/p4s3.jpg"
       ]
     },
     {
@@ -57,19 +65,23 @@
       "github_link": "https://github.com/Rod-S/Unit-5---Use-a-Public-API-to-Create-an-Employee-Directory",
       "image_urls": [
         "/images/p5/p5LP.jpg",
-        "image_path-2"
+        "/images/p5/p5s1.jpg",
+        "/images/p5/p5s2.jpg",
+        "/images/p5/p5s3.jpg"
       ]
     },
     {
       "id": "5",
-      "project_name": "Content Web Scraper",
+      "project_name": "Web Content Data Scraper",
       "description": "Command-line application using Node.js to scrape a web page then store the data within a .csv file",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "CSV"],
       "live_link": "livelink(dot)url",
       "github_link": "https://github.com/Rod-S/Unit-1---Random-Quote-Generator",
       "image_urls": [
         "/images/p6/p6LP.jpg",
-        "image_path-2"
+        "/images/p6/p6s1.jpg",
+        "/images/p6/p6s2.jpg",
+        "/images/p6/p6s3.jpg"
       ]
     }
   ]

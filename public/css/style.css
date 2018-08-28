@@ -8,6 +8,7 @@ h1,h2,h3,h4,h5,p{
     letter-spacing: 2.5px;
     -webkit-text-transform: uppercase;
     text-transform: uppercase;
+    text-align: center;
   }
 
   h6{
@@ -147,4 +148,45 @@ a:hover{
 
 .portfolio-bio{
     line-height: 25px;
+}
+
+body {
+  background-image: url("../images/background.jpg");
+  background-size:     cover;
+  background-repeat:   no-repeat;
+
+}
+
+.thumbnail {
+  border-radius: 2%;
+  opacity: .75;
+}
+
+.profile-pic {
+  opacity: 1.0;
+}
+
+
+.thumbnail:hover {
+  -webkit-transition: all 0.3s linear;
+  -moz-transition: all 0.3s linear;
+  transition: all 0.3s linear;
+  opacity: 1.0;
+  box-shadow:0 0 25px #111;
+  -webkit-box-shadow:0 0 25px #111;
+  -moz-box-shadow:0 0 25px #111;
+
+}
+
+.thumbnail + h5 {
+  font-family: Helvetica;
+}
+
+.thumbnail:hover + h5 {
+  text-decoration: underline;
+}
+
+.portfolio-breadcrumb > a:hover {
+  font-weight: bold;
+  text-decoration: underline;
 }

@@ -23,7 +23,7 @@ block content
           li #{technology}
 
         //- Use template literals and interpolation to add URLs to the hrefs below so they link to the repo and the live version of each project.
-        if liveDemo
+        if id == 5
           a.button.expanded(href=`${github_link}`) GitHub Repo
         else 
           a.button.expanded(href=`${live_link}`) Live Demo  

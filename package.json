@@ -2,10 +2,14 @@
   "name": "portfolio-site",
   "version": "1.0.0",
   "description": "Using Express and Node.js to create a portfolio site of built projects",
-  "main": "index.js",
+  "engines": {
+  "node": "8.11.3",
+  "npm": "6.4.0"
+},
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",

@@ -38,11 +38,12 @@ app.use((req, res, next) => {
 //render status error page rendering error.pug
 app.use(( err, req, res, next ) => {
   res.locals.error = err;
-  //display specific error status' depending on code
+  //display specific error statuses depending on code
   if (err.status >= 100 && err.status < 600)
     res.status(err.status);
   else
     res.status(500);
+  console.log('There was an error while loading the page');
   res.render('error');
 });
 

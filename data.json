@@ -44,7 +44,7 @@
     },
     {
       "id": "3",
-      "project_name": "Tic-Tac-Toe Game (1-player/2-players)",
+      "project_name": "Tic-Tac-Toe Game",
       "description": "(Note: Live Demo may not display svg images properly.) A functional, two-person (or 1-player vs. program) \"Tic-Tac-Toe\" game using HTML, CSS and image files that requires players to add their names, take turns playing, and have the program announce the results of the game when it ends.",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
       "live_link": "https://codepen.io/rod-s/full/VGagwa/",

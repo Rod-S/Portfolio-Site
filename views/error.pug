@@ -1,9 +1,10 @@
 extends layout
 
 block content
+    h1 Uh Oh! There was a problem loading the page!
     h1= `${error.message} - Status: ${error.status}`
     br
-    a.button-primary-small(href='/') CLICK HERE TO GO BACK
+    a(href='/') CLICK HERE TO GO BACK
     br
     br
     .lead.text-light

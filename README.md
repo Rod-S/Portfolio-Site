@@ -6,6 +6,7 @@ To set up the app on your local machine:
 From the Command Line run:
 
 $ npm install
+
 $ npm start
 
 The server is set to run locally on port 3000.

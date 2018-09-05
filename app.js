@@ -28,7 +28,7 @@ app.get('/project/:id', (req, res, next) => {
   if ( 0 >= id || id < data.projects.length) {
     res.render('project');
   } else {
-    res.redirect('/');
+    next();
   }
 });
 
@@ -36,6 +36,7 @@ app.get('/project/:id', (req, res, next) => {
 app.use((req, res, next) => {
   const err = new Error('Not Found');
   err.status = 404;
+  res.locals = data.projects;
   next(err);
 });
 

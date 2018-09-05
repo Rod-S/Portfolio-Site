@@ -25,7 +25,11 @@ app.get('/about', (req, res) => {
 app.get('/project/:id', (req, res) => {
   const {id} = req.params;
   res.locals = data.projects[id];
-  res.render('project');
+  if ( 0 >= id || id < data.projects.length) {
+    res.render('project');
+  } else {
+  next();
+  }
 });
 
 //setup error middleware, passing in new error object

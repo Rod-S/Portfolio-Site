@@ -22,7 +22,7 @@ app.get('/about', (req, res) => {
 });
 
 //route to individual project pages from index route; render project.pug
-app.get('/project/:id', (req, res) => {
+app.get('/project/:id', (req, res, next) => {
   const {id} = req.params;
   res.locals = data.projects[id];
   if ( 0 >= id || id < data.projects.length) {

@@ -83,6 +83,34 @@
         "/images/p6/p6s2.JPG",
         "/images/p6/p6s3.JPG"
       ]
+    },
+    {
+      "id": "6",
+      "project_name": "Portfolio Site",
+      "description": "Using Express and Node.js to create a portfolio site of built projects",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "CSV"],
+      "live_link": "livelink(dot)url",
+      "github_link": "https://github.com/Rod-S/Unit-1---Random-Quote-Generator",
+      "image_urls": [
+        "/images/p6/p6LP.JPG",
+        "/images/p6/p6s1.JPG",
+        "/images/p6/p6s2.JPG",
+        "/images/p6/p6s3.JPG"
+      ]
+    },
+    {
+      "id": "7",
+      "project_name": "Site Build with Gulp",
+      "description": "Preparing a Gulp build process for deployment with provided HTML, SCSS, JPEGS, PNGs and JavaScript files",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "CSV"],
+      "live_link": "livelink(dot)url",
+      "github_link": "https://github.com/Rod-S/Unit-1---Random-Quote-Generator",
+      "image_urls": [
+        "/images/p6/p6LP.JPG",
+        "/images/p6/p6s1.JPG",
+        "/images/p6/p6s2.JPG",
+        "/images/p6/p6s3.JPG"
+      ]
     }
   ]
 }

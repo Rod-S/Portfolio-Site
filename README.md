@@ -5,6 +5,7 @@ To set up the app on your local machine:
 
 From the Command Line run:
 
+
 $ npm install
 
 $ npm start

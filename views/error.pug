@@ -4,8 +4,10 @@ block content
     br
     h1 Uh Oh! There was a problem loading the page!
     br
-    a.button-primary-small(href='/') CLICK HERE TO GO BACK
+    a(href='/') CLICK HERE TO GO BACK
     br
+    br
+    h3= `${error.message} - Status: ${error.status}`
     br
     h3= `${error.message} - Status: ${error.status}`
     br

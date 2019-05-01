@@ -44,7 +44,7 @@
     },
     {
       "id": "3",
-      "project_name": "Tic-Tac-Toe Game (1-player/2-players)",
+      "project_name": "Tic-Tac-Toe Game",
       "description": "(Note: Live Demo may not display svg images properly.) A functional, two-person (or 1-player vs. program) \"Tic-Tac-Toe\" game using HTML, CSS and image files that requires players to add their names, take turns playing, and have the program announce the results of the game when it ends.",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
       "live_link": "https://codepen.io/rod-s/full/VGagwa/",
@@ -60,7 +60,7 @@
       "id": "4",
       "project_name": "Using a Public API to Create an Employee Directory",
       "description": "Using the Random Generator API to retrieve data for 12 random employees, and using that data to build a prototype for an employee directory.",
-      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "API", "AJAX", "JSON"],
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "AJAX"],
       "live_link": "https://codepen.io/rod-s/full/YOqmqb/",
       "github_link": "https://github.com/Rod-S/Unit-5---Use-a-Public-API-to-Create-an-Employee-Directory",
       "image_urls": [
@@ -73,10 +73,61 @@
     {
       "id": "5",
       "project_name": "Web Content Data Scraper",
-      "description": "Command-line application using Node.js to scrape a web page then store the data within a .csv file",
-      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "CSV"],
-      "live_link": "livelink(dot)url",
-      "github_link": "https://github.com/Rod-S/Unit-1---Random-Quote-Generator",
+      "description": "Command-line application using Node.js to scrape a web page, then store the data within a .csv file",
+      "technologies": ["JavaScript", "Node.js"],
+      "github_link": "https://github.com/Rod-S/Unit-6---Content-Scraper",
+      "image_urls": [
+        "/images/p6/p6LP.jpg",
+        "/images/p6/p6s1.jpg",
+        "/images/p6/p6s2.jpg",
+        "/images/p6/p6s3.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "project_name": "Portfolio Site",
+      "description": "Portfolio site of built projects using Express and Node.js; deployed on Heroku's cloud platform",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "Express", "Pug", "Heroku Cloud Platform"],
+      "github_link": "https://github.com/Rod-S/Portfolio-Site",
+      "image_urls": [
+        "/images/p6/p6LP.jpg",
+        "/images/p6/p6s1.jpg",
+        "/images/p6/p6s2.jpg",
+        "/images/p6/p6s3.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "project_name": "Gulp Build",
+      "description": "Gulp build process with multiple file types setup for deployment",
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Gulp"],
+      "github_link": "https://github.com/Rod-S/Unit-8---Gulp-Build",
+      "image_urls": [
+        "/images/p6/p6LP.jpg",
+        "/images/p6/p6s1.jpg",
+        "/images/p6/p6s2.jpg",
+        "/images/p6/p6s3.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "project_name": "Gallery App with React",
+      "description": "Image gallery built with react and the Flickr API",
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "React"],
+      "github_link": "https://github.com/Rod-S/Unit-9---React-Gallery-App",
+      "image_urls": [
+        "/images/p6/p6LP.jpg",
+        "/images/p6/p6s1.jpg",
+        "/images/p6/p6s2.jpg",
+        "/images/p6/p6s3.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "project_name": "Library Manager",
+      "description": "Library Database Management application using Express, Node.js and the Sequelize SQLITE3 ORM",
+      "technologies": ["HTML", "Pug", "CSS", "JavaScript", "Node.js", "Express", "Sequelize"],
+      "github_link": "https://github.com/Rod-S/Unit-10---Library-Manager",
       "image_urls": [
         "/images/p6/p6LP.JPG",
         "/images/p6/p6s1.JPG",

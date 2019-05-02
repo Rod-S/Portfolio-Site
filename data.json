@@ -90,10 +90,10 @@
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery", "Node.js", "Express", "Pug", "Heroku Cloud Platform"],
       "github_link": "https://github.com/Rod-S/Portfolio-Site",
       "image_urls": [
-        "/images/p6/p6LP.jpg",
-        "/images/p6/p6s1.jpg",
-        "/images/p6/p6s2.jpg",
-        "/images/p6/p6s3.jpg"
+        "/images/p7/p7LP.JPG",
+        "/images/p7/p7s1.JPG",
+        "/images/p7/p7s2.JPG",
+        "/images/p7/p7s3.JPG"
       ]
     },
     {
@@ -103,36 +103,36 @@
       "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "Gulp"],
       "github_link": "https://github.com/Rod-S/Unit-8---Gulp-Build",
       "image_urls": [
-        "/images/p6/p6LP.JPG",
-        "/images/p6/p6s1.JPG",
-        "/images/p6/p6s2.JPG",
-        "/images/p6/p6s3.JPG"
+        "/images/p8/p8LP.JPG",
+        "/images/p8/p8s1.JPG",
+        "/images/p8/p8s2.JPG",
+        "/images/p8/p8s3.JPG"
       ]
     },
     {
       "id": "8",
       "project_name": "Gallery App with React",
       "description": "Image gallery built with react and the Flickr API",
-      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "React"],
+      "technologies": ["HTML", "CSS", "JavaScript", "Node.js", "React", "Flickr API"],
       "github_link": "https://github.com/Rod-S/Unit-9---React-Gallery-App",
       "image_urls": [
-        "/images/p6/p6LP.JPG",
-        "/images/p6/p6s1.JPG",
-        "/images/p6/p6s2.JPG",
-        "/images/p6/p6s3.JPG"
+        "/images/p9/p9LP.JPG",
+        "/images/p9/p9s1.JPG",
+        "/images/p9/p9s2.JPG",
+        "/images/p9/p9s3.JPG"
       ]
     },
     {
       "id": "9",
       "project_name": "Library Manager",
-      "description": "Library Database Management application using Express, Node.js and the Sequelize SQLITE3 ORM",
-      "technologies": ["HTML", "Pug", "CSS", "JavaScript", "Node.js", "Express", "Sequelize"],
+      "description": "Library Database Management application using Express, Node.js and the Sequelize SQLITE3 ORM. Application can add/manage database consisting of library books, patrons and loans.",
+      "technologies": ["HTML", "Pug", "CSS", "JavaScript", "Node.js", "Express", "Sequelize", "SQLite3"],
       "github_link": "https://github.com/Rod-S/Unit-10---Library-Manager",
       "image_urls": [
-        "/images/p6/p6LP.JPG",
-        "/images/p6/p6s1.JPG",
-        "/images/p6/p6s2.JPG",
-        "/images/p6/p6s3.JPG"
+        "/images/p10/p10LP.JPG",
+        "/images/p10/p10s1.JPG",
+        "/images/p10/p10s2.JPG",
+        "/images/p10/p10s3.JPG"
       ]
     }
   ]

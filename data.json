@@ -134,6 +134,46 @@
         "/images/p10/p10s2.JPG",
         "/images/p10/p10s3.JPG"
       ]
+    },
+    {
+      "id": "10",
+      "project_name": "Course Rating API",
+      "description": "Using express and the mongoose ODM to interact with a MongoDB database in order to create the back-end for a course rating API which lets users create, edit and rate courses. Includes authorization and authentication functionality.",
+      "technologies": ["JavaScript", "Node.js", "Express", "Mongoose", "MongoDB"],
+      "github_link": "https://github.com/Rod-S/Unit-11---Course-Rating-Api-With-Express",
+      "image_urls": [
+        "/images/p11/p11LP.png",
+        "/images/p11/p11s1.png",
+        "/images/p11/p11s2.png",
+        "/images/p11/p11s3.png"
+      ]
+    },
+    {
+      "id": "11",
+      "project_name": "The Final Frontier",
+      "description": "Creating the front-end of a JavaScript web app along with the back-end managing database communication and 3 APIs. Application hosted with heroku.",
+      "technologies": ["HTML", "Pug", "CSS", "Bootstrap", "JavaScript", "Node.js", "Express", "MongoDB", "Mongoose"],
+      "live_site": "http://the-final-frontier.herokuapp.com",
+      "github_link": "https://github.com/Rod-S/The-Final-Frontier",
+      "image_urls": [
+        "/images/p12/p12LP.png",
+        "/images/p12/p12s1.png",
+        "/images/p12/p12s2.png",
+        "/images/p12/p12s3.png"
+      ]
+    },
+    {
+      "id": "12",
+      "project_name": "Amazon Data Scraper",
+      "description": "Command-line application using Node.js and the request package to scrape Amazon's book page then store the book data within a .json file",
+      "technologies": ["JavaScript", "Node.js"],
+      "github_link": "https://github.com/Rod-S/Amazon-Scraper",
+      "image_urls": [
+        "/images/Amazon-Scraper/AS-LP.png",
+        "/images/Amazon-Scraper/AS-s1.png",
+        "/images/Amazon-Scraper/AS-s2.png",
+        "/images/Amazon-Scraper/AS-s3.png"
+      ]
     }
   ]
 }

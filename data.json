@@ -177,10 +177,23 @@
     },
     {
       "id": "13",
-      "project_name": "Amazon Data Scraper",
-      "description": "Command-line application using Node.js and the request package to scrape Amazon's book page then store the book data within a .json file",
-      "technologies": ["JavaScript", "Node.js"],
+      "project_name": "Weather Forecast",
+      "description": "An interactive weather forecast app that allows the user to search and view current and 7 day weather forecasts for a particular location. User can adjust forecast with interactive map pin. The app uses Open Weather Map and MapBox APIs and incorporates HTML, CSS, JS and jQuery. Pair programming with teammate.",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
       "github_link": "https://github.com/Rod-S/Amazon-Scraper",
+      "image_urls": [
+        "/images/Amazon-Scraper/AS-LP.png",
+        "/images/Amazon-Scraper/AS-s1.png",
+        "/images/Amazon-Scraper/AS-s2.png",
+        "/images/Amazon-Scraper/AS-s4.png"
+      ]
+    },
+    {
+      "id": "14",
+      "project_name": "PharmHands",
+      "description": "A pharmacy database manager that allows doctors, pharmacists and patients to write, view, verify and fill prescriptions. User roles implemented with Spring Security determine application workflow. PharmHands consists of front and back-end development written in HTML, JS, Materialize CSS, and Java Spring Boot. Deployed using DigitalOcean’s cloud-based servers. Our team applied a modified scrum approach, utilized a kanban board, and designed user stories and wireframes to take app live.",
+      "technologies": ["Java","Spring Boot", "Spring Security", "HTML", "CSS", "Materialize","JavaScript", "jQuery"],
+      "github_link": "https://github.com/Pharm-Hands/PharmHands",
       "image_urls": [
         "/images/Amazon-Scraper/AS-LP.png",
         "/images/Amazon-Scraper/AS-s1.png",

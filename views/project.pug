@@ -14,13 +14,17 @@ block content
         ul
         each technology in technologies
           li #{technology}
-        if id == 5
-          br
-          a.button.expanded(href=`${github_link}`) GitHub Repo
-        else 
+        if live_link
           br
           a.button.expanded(href=`${live_link}`) Live Demo  
-          a.button.expanded(href=`${github_link}`) GitHub Repo  
+          a.button.expanded(href=`${github_link}`) GitHub Repo 
+        else if live_site
+          br
+          a.button.expanded(href=`${live_site}`) Live Site 
+          a.button.expanded(href=`${github_link}`) GitHub Repo   
+        else 
+          br
+          a.button.expanded(href=`${github_link}`) GitHub Repo   
     br   
     br   
     img.image(src=`/static${image_urls[1]}`)

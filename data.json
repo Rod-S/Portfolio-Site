@@ -187,9 +187,57 @@
         "/images/Amazon-Scraper/AS-s2.png",
         "/images/Amazon-Scraper/AS-s4.png"
       ]
+    },{
+      "id": "14",
+      "project_name": "Coffee Shop Menu",
+      "description": "An interactive coffee shop app that allows users to search through a menu of available coffees by name and type, and also allows users to add their own coffees and roasts.",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "github_link": "https://github.com/Sanati-Vidaurri/coffee-project",
+      "image_urls": [
+        "/images/Amazon-Scraper/AS-LP.png",
+        "/images/Amazon-Scraper/AS-s1.png",
+        "/images/Amazon-Scraper/AS-s2.png",
+        "/images/Amazon-Scraper/AS-s4.png"
+      ]
+    },{
+      "id": "15",
+      "project_name": "Movie Database App",
+      "description": "An interactive movie database using Glitch.io's RESTful api functionality to send AJAX requests to load, update and delete movie entries and ratings.",
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "github_link": "https://github.com/Ellingson-Sanati/movie-app",
+      "image_urls": [
+        "/images/Amazon-Scraper/AS-LP.png",
+        "/images/Amazon-Scraper/AS-s1.png",
+        "/images/Amazon-Scraper/AS-s2.png",
+        "/images/Amazon-Scraper/AS-s4.png"
+      ]
+    },{
+      "id": "16",
+      "project_name": "Java IO Terminal Dungeon Crawler",
+      "description": "An interactive weather forecast app that allows the user to search and view current and 7 day weather forecasts for a particular location. User can adjust forecast with interactive map pin. The app uses Open Weather Map and MapBox APIs and incorporates HTML, CSS, JS and jQuery. Pair programming with teammate.",
+      "technologies": ["Java"],
+      "github_link": "https://github.com/Connor-Rod/Contacts-manager",
+      "image_urls": [
+        "/images/Amazon-Scraper/AS-LP.png",
+        "/images/Amazon-Scraper/AS-s1.png",
+        "/images/Amazon-Scraper/AS-s2.png",
+        "/images/Amazon-Scraper/AS-s4.png"
+      ]
+    },{
+      "id": "17",
+      "project_name": "Ad Lister",
+      "description": "An interactive ad listing application that allows users to create accounts and view their profile, view, create, update and delete their own ads to a database.",
+      "technologies": ["Java", "MySQL", "MVC","Servlets", "JSP and JSTL", "JDBC", "HTML", "CSS", "JavaScript", "jQuery"],
+      "github_link": "https://github.com/Ryan-Rod-Lening/Group-Java-Adlister",
+      "image_urls": [
+        "/images/Amazon-Scraper/AS-LP.png",
+        "/images/Amazon-Scraper/AS-s1.png",
+        "/images/Amazon-Scraper/AS-s2.png",
+        "/images/Amazon-Scraper/AS-s4.png"
+      ]
     },
     {
-      "id": "14",
+      "id": "18",
       "project_name": "PharmHands",
       "description": "A pharmacy database manager that allows doctors, pharmacists and patients to write, view, verify and fill prescriptions. User roles implemented with Spring Security determine application workflow. PharmHands consists of front and back-end development written in HTML, JS, Materialize CSS, and Java Spring Boot. Deployed using DigitalOcean’s cloud-based servers. Our team applied a modified scrum approach, utilized a kanban board, and designed user stories and wireframes to take app live.",
       "technologies": ["Java","Spring Boot", "Spring Security", "HTML", "CSS", "Materialize","JavaScript", "jQuery"],

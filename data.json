@@ -179,7 +179,7 @@
       "id": "13",
       "project_name": "SimpliWeather",
       "description": "An interactive weather forecast app that allows the user to search and view current and 7 day weather forecasts for a particular location. User can adjust forecast with interactive map pin. The app uses Open Weather Map and MapBox APIs and incorporates HTML, CSS, JS and jQuery. Pair programming with teammate.",
-      "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+      "technologies": ["HTML", "CSS", "JavaScript", "jQuery, MapBox API, Open Weather API"],
       "github_link": "https://github.com/Rod-S/weather-app",
       "image_urls": [
         "/images/Amazon-Scraper/AS-LP.png",
@@ -189,7 +189,7 @@
       ]
     },{
       "id": "14",
-      "project_name": "Coffee Shop",
+      "project_name": "Alamo Coffee",
       "description": "An interactive coffee shop app that allows users to search through a menu of available coffees by name and type, and also allows users to add their own coffees and roasts.",
       "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
       "github_link": "https://github.com/Sanati-Vidaurri/coffee-project",
